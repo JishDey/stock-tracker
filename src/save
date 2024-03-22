@@ -1,0 +1,6 @@
+save
+
+                                            /*{(info !== "5. volume") ?
+                                                Number.parseFloat(value[1][info]).toFixed(2)
+                                                : value[1][info]
+                                            }*/
